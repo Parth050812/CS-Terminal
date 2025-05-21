@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <div>Hello guys</div>
+      <div className='text-4xl w-96 flex justify-center'>Hello guys</div>
     </>
   )
 }
